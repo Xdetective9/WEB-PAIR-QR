@@ -16,19 +16,19 @@ const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Mek-d1/X-BOT-MD
+https://github.com/Xdetective9/xdetective
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G
+https://whatsapp.com/channel/0029VbAmCGa0AgW9oyj1PT1V
 
 *REACH OUT*
-https://wa.me/2349133354644
+https://wa.me/923288055104
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/Mek-d1
+https://youtube.com/@ranaabdullah-b7r?si=QZWmdcHCIvO0l6v5
 
-*X-BOT-MD--WHATTSAPP-BOT* 🥀
+*Xdetective!🔥--WHATTSAPP-BOT* 🥀
 `
 
 
